@@ -1,2 +1,2 @@
 # Taiwan GPUC Cloud
-Here is offical repo for TWGC.
+Here is offical TWGC repo from [NCHC](http://www.nchc.org.tw)
