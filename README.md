@@ -1,6 +1,8 @@
 # Taiwan GPUC Cloud
 Here is offical TWGC repo from [NCHC](http://www.nchc.org.tw)
 
+Please Leave any questions and messages here, or just open issue for further discuss. 
+
 ## Current Service Design
 
 Please Login to [TWGC v0.2](http://twgc.nchc.org.tw/)
