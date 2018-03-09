@@ -4,7 +4,7 @@ Here is offical TWGC repo from [NCHC](http://www.nchc.org.tw), please Leave any 
 
 ## Current Service Design
 
-Please Login to [TWGC v0.2](http://twgc.nchc.org.tw/)
+Please Login to [TWGC](http://twgc.nchc.org.tw/)
 ![Service Diagram](http://twgc.nchc.org.tw/img/architecture_v1.jpg)
 
 
